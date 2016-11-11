@@ -1,0 +1,4 @@
+obj_name              |obj_code              |Dictionary
+1.Playlist            |user_playlist         |list of pathes to music files
+2.Music Tag           |IDv3Tag               |Tag of the music file (signature, name, artist, album, year, description)
+3.DJ                  |user                  |launch playlists, talks.
